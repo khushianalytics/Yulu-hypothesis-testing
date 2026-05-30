@@ -1,8 +1,11 @@
 # Yulu Hypothesis Testing and Data Analysis
 
+## 📓 View Project
+**Google Colab Notebook:**  
+https://colab.research.google.com/drive/1RKuhyOm_IQm8Tlp2s-63ayvy6Qe2T8UR#scrollTo=iU-DfToLJ8xC
+
 ## Project Overview
 This project analyzes the factors affecting the demand for shared electric cycles provided by Yulu, India's leading micro-mobility service provider.
-
 The analysis focuses on understanding how variables such as weather, season, working days, temperature, and humidity impact bike rental demand using statistical hypothesis testing and exploratory data analysis.
 
 ## Tools & Technologies Used
@@ -33,11 +36,3 @@ The analysis focuses on understanding how variables such as weather, season, wor
 - Analyzed impact of weather and season on rentals
 - Studied dependency between weather and season
 - Evaluated differences in rental patterns on working and non-working days
-
-## Business Recommendations
-- Improve bike availability during high-demand seasons
-- Optimize operations based on weather conditions
-- Enhance demand planning using statistical insights
-
-## Files Included
-- Yulu_Hypothesis_Testing.pdf
